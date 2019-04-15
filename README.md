@@ -1,6 +1,5 @@
 # snake
 
-Victor Antonio Menuzzo
-Paula Giovanna Rodrigues
+Made by Victor Antonio Menuzzo and Paula Giovanna Rodrigues
 
 Write make in terminal to compile
