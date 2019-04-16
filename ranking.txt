@@ -1,0 +1,9 @@
+NOME    PONTOS
+Leyza   10
+Dorini  8
+Merkle  3
+Tonnon  9
+Diego   5
+Adolfo  2
+Bogado  0
+Graeml  4
